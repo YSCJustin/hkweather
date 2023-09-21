@@ -1,0 +1,2 @@
+# nogpt
+No more ChatGPT
